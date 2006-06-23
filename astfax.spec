@@ -3,7 +3,7 @@ Name:		astfax
 Version:	1.0
 Release:	1
 License:	GPL
-Group:		Libraries
+Group:		Applications/System
 Source0:	http://www.inter7.com/astfax/%{name}-%{version}.tar.gz
 # Source0-md5:	66e4ef4efc42b3b136bfa81b77552bf5
 URL:		http://www.inter7.com/index.php?page=astfax

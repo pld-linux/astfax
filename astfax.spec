@@ -1,5 +1,5 @@
 Summary:	Asterisk Fax
-Summary(pl):	Fax dla Asteriska
+Summary(pl.UTF-8):   Fax dla Asteriska
 Name:		astfax
 Version:	1.0
 Release:	1
@@ -16,11 +16,11 @@ AstFax provides an outgoing email to fax gateway for the Asterisk PBX
 package. Incoming fax to email can also be configured so your Asterisk
 server can act as both an outgoing and incoming fax server.
 
-%description -l pl
-AstFax udostêpnia bramkê z wychodz±cej poczty na fax dla pakietu
-Asterisk PBX. Mo¿na tak¿e skonfigurowaæ bramkê z przychodz±cych faksów
-na pocztê, wiêc serwer Asterisk mo¿e dzia³aæ jako serwer faksów
-wychodz±cych i przychodz±cych.
+%description -l pl.UTF-8
+AstFax udostÄ™pnia bramkÄ™ z wychodzÄ…cej poczty na fax dla pakietu
+Asterisk PBX. MoÅ¼na takÅ¼e skonfigurowaÄ‡ bramkÄ™ z przychodzÄ…cych faksÃ³w
+na pocztÄ™, wiÄ™c serwer Asterisk moÅ¼e dziaÅ‚aÄ‡ jako serwer faksÃ³w
+wychodzÄ…cych i przychodzÄ…cych.
 
 %prep
 %setup -q

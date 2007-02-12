@@ -1,5 +1,5 @@
 Summary:	Asterisk Fax
-Summary(pl.UTF-8):   Fax dla Asteriska
+Summary(pl.UTF-8):	Fax dla Asteriska
 Name:		astfax
 Version:	1.0
 Release:	1
